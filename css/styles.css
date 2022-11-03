@@ -4054,7 +4054,7 @@ textarea.form-control-lg {
 
     position: absolute;
     left: 50%;
-    margin-left: -160px !important;  /* 50% of your logo width */
+    margin-left: -125px !important;  /* 50% of your logo width */
     display: block;
 
     padding-top: 0.3125rem auto;
